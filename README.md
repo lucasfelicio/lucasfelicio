@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="23px">, I'm Lucas Felício
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasfelicio" alt="lucasfelicio" /></p>
 
-<!--
-**lucasfelicio/lucasfelicio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente, estou trabalhando no sistema [@CrediSIS](https://www.instagram.com/credisis/)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on the system [@CrediSIS](https://www.instagram.com/credisis/)
+- 🌱 I’m currently learning AdonisJS, ReactJS, SQL Server and MySQL
+- 😄 Pronouns: He/His
+- 🚀 Starting the Cactus project 🌵
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img src='https://github-readme-stats.vercel.app/api?username=lucasfelicio' alt='lucasfelicio'/>
+
+[![Twitter Badge](https://img.shields.io/badge/-@lucasfeliccio-31A062?style=flat-square&labelColor=31A062&logo=twitter&logoColor=white&link=https://twitter.com/lucasfeliccio)](https://twitter.com/lucasfeliccio)
+[![Instagram Badge](https://img.shields.io/badge/@lucasfeliccio-31A062?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/lucasfeliccio/)
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Felício-31A062?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/lucasfeliccio)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+[![Gmail Badge](https://img.shields.io/badge/-lucasdesouzafelicio@gmail.com-31A062?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasdesouzafelicio@gmail.com)](mailto:lucasdesouzafelicio@gmail.com)
