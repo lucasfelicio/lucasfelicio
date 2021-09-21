@@ -1,5 +1,4 @@
 ## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="23px">, I'm Lucas Felício
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasfelicio" alt="lucasfelicio" /></p>
 
 - 🔭 I’m currently working on the system [@CrediSIS](https://www.instagram.com/credisis/)
 - 🌱 I’m currently learning AdonisJS, ReactJS, SQL Server and MySQL
