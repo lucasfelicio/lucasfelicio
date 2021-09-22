@@ -9,5 +9,5 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@lucasfeliccio-31A062?style=flat-square&labelColor=31A062&logo=twitter&logoColor=white&link=https://twitter.com/lucasfeliccio)](https://twitter.com/lucasfeliccio)
 [![Instagram Badge](https://img.shields.io/badge/@lucasfeliccio-31A062?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/lucasfeliccio/)
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Felício-31A062?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/lucasfeliccio)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Felício-31A062?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/lucasfeliccio)](https://br.linkedin.com/in/lucasfeliccio) 
 [![Gmail Badge](https://img.shields.io/badge/-lucasdesouzafelicio@gmail.com-31A062?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasdesouzafelicio@gmail.com)](mailto:lucasdesouzafelicio@gmail.com)
