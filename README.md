@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on the system [@CrediSIS](https://www.instagram.com/credisis/)
 - 🌱 I’m currently learning AdonisJS, ReactJS, SQL Server and MySQL
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - 🚀 Starting the Cactus project 🌵
 
 <img src='https://github-readme-stats.vercel.app/api?username=lucasfelicio' alt='lucasfelicio'/>
