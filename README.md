@@ -1,7 +1,7 @@
 ## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="23px">, I'm Lucas Felício
 
 - 🔭 I’m currently working on the system [@CrediSIS](https://www.instagram.com/credisis/)
-- 🌱 I’m currently learning Flutter, NodeJS, PostgreSQL, SQL Server and MySQL
+- 🌱 I’m currently learning React Native, NodeJS, PostgreSQL, SQL Server and MySQL
 - 😄 Pronouns: He/Him
 - 🚀 Never top learning. 
 
