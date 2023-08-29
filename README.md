@@ -7,6 +7,5 @@
 
 <img src='https://github-readme-stats.vercel.app/api?username=lucasfelicio&show_icons=true&theme=slateorange' alt='lucasfelicio'/>
 
-[![Twitter Badge](https://img.shields.io/badge/-@lucasfeliccio-fcba03?style=flat-square&labelColor=fcba03&logo=twitter&logoColor=white&link=https://twitter.com/lucasfeliccio)](https://twitter.com/lucasfeliccio)
 [![Instagram Badge](https://img.shields.io/badge/@lucasfeliccio-fcba03?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/lucasfeliccio/)
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Felício-fcba03?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/lucasfeliccio)](https://br.linkedin.com/in/lucasfeliccio) 
