@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on the system [@CrediSIS](https://www.instagram.com/credisis/)
 - 🌱 I’m currently learning Data Engineering 
 - 😄 Pronouns: He/Him
-- 🚀 Never top learning. 
+- 🚀 Never sop learning. 
 
 <img src='https://github-readme-stats.vercel.app/api?username=lucasfelicio&show_icons=true&theme=slateorange' alt='lucasfelicio'/>
 
