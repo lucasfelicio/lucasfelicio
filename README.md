@@ -7,6 +7,18 @@ But, with all the experience I have accumulated over the years, I now decide to 
 
 My favorite color is purple and I love 🐋 whales 🐳.
 
+Languages and Tools
+---
+<div>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="45">
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" width="45">
+  <img src="https://seeklogo.com/images/M/microsoft-azure-logo-2575D39E82-seeklogo.com.png" width="45">
+  <img src="https://lh3.googleusercontent.com/j-urjH7S4JY9op3WIGELnPm_cBxin_zlzOWBQVIfILAaBbRNnl5HPuwWIFnhdJT2DsixEfL_whHngFzFSZ6Q=w240-h240" width="45">
+  <img src="https://airflow.apache.org/docs/apache-airflow/1.10.15/_images/pin_large.png" width="45">
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="80">
+  <img src="https://i.pinimg.com/originals/00/47/41/004741d0cd8e7face0e44392387ac18c.png" width="45">
+</div>
+
 
 GitHub Stats
 ---
