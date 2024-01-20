@@ -1,4 +1,4 @@
-<h1 align='center'>👋 Hey everyone, I'm Lucas Felício</h1>
+<h1 align='center'>👋 Hey, I'm Lucas Felício</h1>
 
 ![lucasfelicio](https://github.com/lucasfelicio/lucasfelicio/assets/36642104/c31ad33a-c3e2-4d6d-9f9b-a55d5f41908e)
 
