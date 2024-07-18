@@ -2,7 +2,7 @@
 
 ![lucasfelicio](https://github.com/lucasfelicio/lucasfelicio/assets/36642104/c31ad33a-c3e2-4d6d-9f9b-a55d5f41908e)
 
-🙋 Hi, with more than 7 years of experience in the technology and database area, today I am a Full Database Administrator at CrediSIS, where I supervise, structure and manage database environments, applying the best practices to ensure security and performance.
+🙋 Hi, with more than 7 years of experience in the technology and database area, today I am a Database Administrator at CrediSIS, where I supervise, structure and manage database environments, applying the best practices to ensure security and performance.
 But, with all the experience I have accumulated over the years, I now decide to venture into a data career as a data engineer. I'm currently learning about various data topics, and in fact, I've been involved in some projects where I work. I'm very happy with this moment. 🙃
 
 My favorite color is purple and I love 🐋 whales 🐳.
