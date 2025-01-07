@@ -2,8 +2,7 @@
 
 ![lucasfelicio](https://github.com/lucasfelicio/lucasfelicio/assets/36642104/c31ad33a-c3e2-4d6d-9f9b-a55d5f41908e)
 
-🙋 Hi, with more than 7 years of experience in the technology and database area, today I am a Database Administrator at CrediSIS, where I supervise, structure and manage database environments, applying the best practices to ensure security and performance.
-But, with all the experience I have accumulated over the years, I now decide to venture into a data career as a data engineer. I'm currently learning about various data topics, and in fact, I've been involved in some projects where I work. I'm very happy with this moment. 🙃
+🙋 Hi, Im Data Engineer with over 8 years of experience in technology and databases, specializing in the development and maintenance of data pipelines using PySpark (Python and Spark) and SQL. Experienced in data modeling, transformation, and integration (ETL and ELT) within architectures such as Data Lake, Data Warehouse, and Data Lakehouse. Skilled in cloud-based solutions on Azure, including Azure Databricks, Azure Data Factory, and Azure Data Lake, with expertise in CI/CD processes via Azure DevOps and Unity Catalog implementation in Databricks. Proficient in collaborating with multidisciplinary teams to create analytical solutions aligned with business needs. Led the implementation of a Data Lakehouse architecture on Azure, overseeing the provisioning and configuration of its technical resources.
 
 My favorite color is purple and I love 🐋 whales 🐳.
 
