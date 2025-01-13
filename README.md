@@ -6,27 +6,13 @@
 
 My favorite color is purple and I love 🐋 whales 🐳.
 
-Languages and Tools
----
-<div>
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" width="45" alt="Python">
-  <img src="https://pngimg.com/uploads/linux/linux_PNG13.png" width="45" alt="Linux">
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="45" alt="Git">
-  <img src="https://seeklogo.com/images/M/microsoft-azure-logo-2575D39E82-seeklogo.com.png" width="45" alt="Microsoft Azure">
-  <img src="https://lh3.googleusercontent.com/j-urjH7S4JY9op3WIGELnPm_cBxin_zlzOWBQVIfILAaBbRNnl5HPuwWIFnhdJT2DsixEfL_whHngFzFSZ6Q=w240-h240" width="45" alt="Databricks">
-  <img src="https://airflow.apache.org/docs/apache-airflow/1.10.15/_images/pin_large.png" width="45" alt="Airflow">
-  <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="80" alt="MySQL">
-  <img src="https://i.pinimg.com/originals/00/47/41/004741d0cd8e7face0e44392387ac18c.png" width="45" alt="Microsoft SQL Server">
-</div>
-
-
 GitHub Stats
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucasfelicio&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&hide_border=true&layout=compact" alt="GitHub Stats for Lucas Felício" width="700">
+
 <div>
-  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfelicio&theme=jolly&show_icons=true&hide_border=true&layout=compact">
-  <img loading="lazy" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasfelicio&theme=jolly&hide_border=true">
+  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasfelicio&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&layout=compact" alt="GitHub Stats for Lucas Felício">
+  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfelicio&theme=graywhite&show_icons=true&hide_border=true&layout=compact">
 </div>
 
 Find me
