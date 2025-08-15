@@ -10,7 +10,7 @@ I’m a data engineer with over **9 years of experience** in the tech industry, 
 
 ---
 ### 🧰 Stack
-Azure, Azure Databricks, Azure Data Factory, Azure Data Lake, Spark / PySpark, SQL, Airflow, AWS, CI/CD, Data Modeling, Machine Learning, Unity Catalog
+Azure, Azure Databricks, Azure Data Factory, Azure Data Lake, Spark / PySpark, SQL, Airflow, AWS, SageMaker, S3, CI/CD, Data Modeling, Machine Learning, Unity Catalog, Linux, Shell Script, N8N.
 
 ### 📜 Certifications
 - AWS Certified Cloud Practitioner (CLF-C01)  
